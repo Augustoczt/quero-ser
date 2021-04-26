@@ -1,0 +1,3 @@
+https://dojopuzzles.com/problems/calculando-estatisticas-simples/
+https://dojopuzzles.com/problems/jokenpo/
+https://dojopuzzles.com/problems/fizzbuzz/	
